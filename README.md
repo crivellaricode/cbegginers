@@ -1,2 +1,3 @@
 # C Programming For Beginners - Master the C Language
-## Jason Fedin - Instructor / Software Developer
+## Tim Buchalka's Learn Programming Academy
+### Jason Fedin - Instructor / Software Developer
