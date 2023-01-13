@@ -5,6 +5,6 @@ int main(void)
 {
     bool myBoolean = true;
     bool anotherBoolean = false;
-
+    
     return 0;
 }
