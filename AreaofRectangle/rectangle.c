@@ -13,9 +13,9 @@ int main(int argc, char *argv[])
     if(numberOfArguments < 3)
     {
         printf("Enter height: ");
-        scanf("%lf", &height);
+        scanf("%f", &height);
         printf("Enter width: ");
-        scanf("%lf", &width);
+        scanf("%f", &width);
     }
     else
     {
